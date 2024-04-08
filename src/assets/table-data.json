@@ -1,0 +1,20 @@
+[
+  {
+    "position": "Row_1",
+    "aValue": "10%",
+    "bValue": 1.0079,
+    "cValue": 14.3
+  },
+  {
+    "position": "Row_2",
+    "aValue": "50%",
+    "bValue": 4.0026,
+    "cValue": 20
+  },
+  {
+    "position": "Row_3",
+    "aValue": "35%",
+    "bValue": 6.941,
+    "cValue": 50
+  }
+]
