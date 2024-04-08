@@ -1,11 +1,16 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+
+// for local testing only
+// import {
+//   BoxBarComponent,
+//   WidgetsComponent,
+// } from '../../../ng-components/projects/ngxw/widgets/src/public-api';
 import {
   BoxBarComponent,
   WidgetsComponent,
-} from '../../../ng-components/projects/ngxw/widgets/src/public-api';
-import { TableComponent } from './table/table.component';
-// import { WidgetsComponent } from '@ngxw/widgets';
+  WidgetsModule,
+} from '@ngxw/widgets';
 
 @Component({
   selector: 'app-root',
